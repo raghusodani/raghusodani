@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu Raj Sodani</h1>
-<h3 align="center">This is 3nd Year CS undergrad at Indian Institute of Information Technology Vadodara.</h3>
+<h3 align="center">This is Software Developer Working at Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghusodani&label=Profile%20views&color=0e75b6&style=flat" alt="raghusodani" /> </p>
 
